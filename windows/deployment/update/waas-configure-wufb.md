@@ -58,7 +58,7 @@ Starting with version 1703, users are able to configure their device's branch re
 ![Branch readiness level setting](images/waas-wufb-settings-branch.jpg)
 
 >[!NOTE]
->Users will not be able to change this setting if it was configured by policy.
+>Users will not be able to change this setting if it was configured by policy or if the user account is not part of the Administrators security group.
 
 ## Configure when devices receive Feature Updates
 
